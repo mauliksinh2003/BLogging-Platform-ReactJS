@@ -1,0 +1,85 @@
+.body {
+    margin-top: 20px;
+    scrollbar-width: 0px;
+}
+
+.Add {
+    text-align: center;
+    height: 700px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: 
+        url(https://img.freepik.com/premium-photo/how-start-blog-blogging-beginners-ways-monetize-your-blog-blog-word-table-with-laptop_72482-5630.jpg?w=740);
+    background-size: cover;
+
+}
+
+.InsertPic {
+    cursor: pointer;
+    margin-top: 20px;
+    height: 50px;
+    color: black;
+}
+
+.InsertPic:hover {
+    color: rgb(187, 56, 56);
+}
+
+.AddImg {
+    height: 250px;
+    width: 700px;
+    /* border: 2px solid black; */
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+.Addfile {
+    display: none;
+    border: none;
+}
+
+.AddInput {
+    width: 500px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    /* margin: 10px; */
+}
+
+.label {
+    color: rgb(212, 55, 55);
+    font-family: "Playwrite GB S", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.AddText {
+    height: 70px;
+    width: 600px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border: none;
+}
+
+.Addbtn {
+    margin-top: 40px;
+    height: 50px;
+    width: 100px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.Addbtn:hover{
+    color: azure;
+    background-color: rgb(187, 56, 56);
+} 
